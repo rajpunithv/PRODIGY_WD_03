@@ -24,3 +24,6 @@ Technologies Used
 HTML: For the basic structure of the game.
 CSS: For styling and creating visually appealing effects.
 JavaScript: For game logic, interactivity, and AI implementation.
+
+
+https://rajpunithv.github.io/tic-tac/
